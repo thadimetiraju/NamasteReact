@@ -1,3 +1,7 @@
+
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 //NESTED ELEMENTS
 
 const parent = React.createElement("div", { id: "parent" }, [

@@ -1,0 +1,31 @@
+{
+  "name": "namstereact",
+  "version": "1.0.0",
+  "description": "This Namaste React from Thadimeti Raju",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thadimetiraju/NamasteReact.git"
+  },
+  "keywords": [
+    "javascript",
+    "raactjs",
+    "html",
+    "css"
+  ],
+  "author": "Thadimeti Raju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thadimetiraju/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/thadimetiraju/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.15.0"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
